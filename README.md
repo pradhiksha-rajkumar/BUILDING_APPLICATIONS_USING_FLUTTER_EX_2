@@ -1,17 +1,44 @@
-# flutter_application_2
+# Experiment 2 – Adaptive and Responsive UI Design
 
-A new Flutter project.
+## Aim
 
-## Getting Started
+To design and develop a responsive Flutter application for an E-Commerce Product Catalog using reusable custom product widgets and responsive layout techniques.
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+This experiment demonstrates the development of a responsive E-Commerce Product Catalog using Flutter and Dart.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+The application uses reusable custom ProductCard widgets to display product information such as product name, description, price, and Add to Cart button.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Responsive design is implemented using LayoutBuilder and GridView. The number of product columns changes according to the available screen width.
+
+- Small screen – 2 columns
+- Medium screen – 3 columns
+- Large screen – 4 columns
+
+## Technologies Used
+
+- Flutter
+- Dart
+- LayoutBuilder
+- GridView
+- Custom Widgets
+- Material Design
+
+## Output Screenshots
+
+### Large Screen – 4 Columns
+
+![Large Screen](screenshots/output_large.png)
+
+### Medium Screen – 3 Columns
+
+![Medium Screen](screenshots/output_medium.png)
+
+### Small Screen – 2 Columns
+
+![Small Screen](screenshots/output_small.png)
+
+## Result
+
+A responsive E-Commerce Product Catalog was successfully designed and implemented using Flutter and Dart. The application adapts its layout according to different screen sizes using responsive design techniques.
