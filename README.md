@@ -29,15 +29,15 @@ Responsive design is implemented using LayoutBuilder and GridView. The number of
 
 ### Large Screen – 4 Columns
 
-![Large Screen](screenshots/output_large.png)
+![Large Screen](screenshots/output_desktop.png)
 
 ### Medium Screen – 3 Columns
 
-![Medium Screen](screenshots/output_medium.png)
+![Medium Screen](screenshots/output_tablet.png)
 
 ### Small Screen – 2 Columns
 
-![Small Screen](screenshots/output_small.png)
+![Small Screen](screenshots/output_phone.png)
 
 ## Result
 
