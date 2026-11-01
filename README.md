@@ -42,3 +42,4 @@ Responsive design is implemented using LayoutBuilder and GridView. The number of
 ## Result
 
 A responsive E-Commerce Product Catalog was successfully designed and implemented using Flutter and Dart. The application adapts its layout according to different screen sizes using responsive design techniques.
+Maintained by Pradhiksha Rajkumar.
